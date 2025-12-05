@@ -1,6 +1,6 @@
 .start-panel {
     display: grid;
-    grid-template-columns: 50px 150px auto;
+    grid-template-columns: 50px 160px auto;
     gap: 10px;
 }
 .start-panel__icons {
