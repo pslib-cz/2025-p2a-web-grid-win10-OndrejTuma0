@@ -5,7 +5,7 @@
 }
 .start-panel__icons {
     display: grid;
-    grid-template-rows: 1fr;
+    grid-template-rows: 1fr repeat(5, 50px);
 }
 .start-panel__grid {
     display: grid;
